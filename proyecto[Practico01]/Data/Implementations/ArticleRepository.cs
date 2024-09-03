@@ -14,12 +14,12 @@ namespace proyecto_Practico01_.Repositories.Implementations
     {
         public bool Add(Article article)
         {
-            var parameters = new List<ParameterSQL>()
+            List<ParameterSQL> parameters = new List<ParameterSQL>()
             {
-                new ParameterSQL("nombre", article.Name),
-                new ParameterSQL("precio_unitario", article.Price)
+                new ParameterSQL("@nombre", article.Name),
+                new ParameterSQL("@precio", article.Price)
             };
-            int filasAfectadas = DataHelper.GetInstance().ExecuteSPDML("EXEC SP_GUARDAR_ARTICULO", parameters);
+            int filasAfectadas = DataHelper.GetInstance().ExecuteSPDML("SP_GUARDAR_ARTICULO", parameters);
 
             return filasAfectadas > 0;
         }

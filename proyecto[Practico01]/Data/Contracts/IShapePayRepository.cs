@@ -10,6 +10,5 @@ namespace proyecto_Practico01_.Repositories.Contracts
     public interface IShapePayRepository
     {
         List<ShapePay> GetAll();
-
     }
 }
