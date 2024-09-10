@@ -8,8 +8,10 @@ namespace proyecto_Practico01_.Entities
 {
     public class InvoiceDetail
     {
-        private Article? Article { get; set; }
-        private int Lot { get; set; }
-        private Invoice? Invoice { get; set; } //FK
+        public int Id { get; set; }
+        public Article? Article { get; set; }
+        public int Lot { get; set; }
+        public Invoice? Invoice { get; set; } //FK
+
     }
 }

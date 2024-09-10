@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\services\\billingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\services\\billingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\data\\implementations\\invoicedetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\data\\implementations\\invoicedetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\data\\implementations\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\data\\implementations\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\data\\contracts\\iinvoicedetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\data\\contracts\\iinvoicedetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\data\\contracts\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\data\\contracts\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\domain\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\domain\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\domain\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\domain\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\data\\contracts\\ishapepayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\data\\contracts\\ishapepayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\data\\implementations\\shapepayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\data\\implementations\\shapepayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|c:\\users\\windows\\desktop\\tup\\programacion ll\\tarea\\proyecto[practico01]\\proyecto[practico01]\\domain\\shapepay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80715B-9447-4353-9880-135C66976055}|proyecto[Practico01]\\proyecto[Practico01].csproj|solutionrelative:proyecto[practico01]\\domain\\shapepay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IinvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Contracts\\IinvoiceRepository.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Data\\Contracts\\IinvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Contracts\\IinvoiceRepository.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Data\\Contracts\\IinvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:19:27.788Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Services\\BillingManager.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Services\\BillingManager.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Services\\BillingManager.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Services\\BillingManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:54:00.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Program.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:34:29.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Implementations\\InvoiceDetailRepository.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Data\\Implementations\\InvoiceDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Implementations\\InvoiceDetailRepository.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Data\\Implementations\\InvoiceDetailRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:39:09.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Implementations\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Data\\Implementations\\InvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Implementations\\InvoiceRepository.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Data\\Implementations\\InvoiceRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:33:13.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IinvoiceDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Contracts\\IinvoiceDetailRepository.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Data\\Contracts\\IinvoiceDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Contracts\\IinvoiceDetailRepository.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Data\\Contracts\\IinvoiceDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T12:31:30.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Domain\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Domain\\InvoiceDetail.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Domain\\InvoiceDetail.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Domain\\InvoiceDetail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:27:53.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Domain\\Invoice.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Domain\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Domain\\Invoice.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Domain\\Invoice.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:20:03.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Utils\\DataHelper.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwGEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:33:31.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IShapePayRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Contracts\\IShapePayRepository.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Data\\Contracts\\IShapePayRepository.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Contracts\\IShapePayRepository.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Data\\Contracts\\IShapePayRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:23:58.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShapePayRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Implementations\\ShapePayRepository.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Data\\Implementations\\ShapePayRepository.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Data\\Implementations\\ShapePayRepository.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Data\\Implementations\\ShapePayRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:23:54.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShapePay.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Domain\\ShapePay.cs",
+              "RelativeDocumentMoniker": "proyecto[Practico01]\\Domain\\ShapePay.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\TUP\\Programacion ll\\Tarea\\proyecto[Practico01]\\proyecto[Practico01]\\Domain\\ShapePay.cs",
+              "RelativeToolTip": "proyecto[Practico01]\\Domain\\ShapePay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:23:50.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

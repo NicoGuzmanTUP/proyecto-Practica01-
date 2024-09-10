@@ -10,6 +10,6 @@ namespace proyecto_Practico01_.Repositories.Contracts
     public interface IinvoiceRepository
     {
         List<Invoice> GetAll();
-        bool Add(Invoice invoice);
+        bool save(Invoice invoice);
     }
 }

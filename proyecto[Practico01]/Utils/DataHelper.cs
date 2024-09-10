@@ -95,6 +95,11 @@ namespace proyecto_Practico01_.Utils
             return rows;
         }
 
+        public SqlConnection GetConnection()
+        {
+            return _connection;
+        }
+
 
     }
 }

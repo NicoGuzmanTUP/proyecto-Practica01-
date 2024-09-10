@@ -9,7 +9,6 @@ namespace proyecto_Practico01_.Repositories.Contracts
 {
     public interface IinvoiceDetailRepository
     {
-        List<InvoiceDetail> GetAll();
-        bool Add(InvoiceDetail invoiceDetail);
+        List<InvoiceDetail> GetCount();
     }
 }
